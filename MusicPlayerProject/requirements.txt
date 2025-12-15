@@ -1,0 +1,12 @@
+requests
+websockets
+fastapi
+uvicorn
+SQLAlchemy
+pydantic
+python-jose
+passlib[bcrypt]
+bcrypt==4.0.0
+pygame
+ttkbootstrap
+python-multipart
